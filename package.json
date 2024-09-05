@@ -75,9 +75,9 @@
   "dependencies": {
     "dts-dom": "^3.2.0",
     "eventemitter3": "^3.1.0",
-    "exports-loader": "^0.7.0",
-    "imports-loader": "^0.8.0",
-    "jsdoc": "^3.6.1",
+    "exports-loader": "^2.0.0",
+    "imports-loader": "^3.0.0",
+    "jsdoc": "^3.6.4",
     "path": "^0.12.7",
     "remove-files-webpack-plugin": "^1.1.3",
     "typescript": "^3.4.5"
